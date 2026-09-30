@@ -12,3 +12,6 @@ dist/
 build/
 *.egg-info/
 .DS_Store
+# persisted score revisions (regenerated from the seed on first run)
+data/scores/
+*.log
