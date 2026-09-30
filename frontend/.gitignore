@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.e2e.cjs
+scripts/.render-smoke.cjs
+scripts/.e2e.mjs
